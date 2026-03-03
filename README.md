@@ -41,9 +41,16 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     </tr>
     <tr>
         <td><strong>Week 1</strong></td>
-        <td>19 Feb <br />20 Feb</td>
-        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>]<br />Word embeddings [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>]</td>
+        <td>18 Feb <br />19 Feb</td>
+        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+1-2%3A+Introduction++Simple+Neural+Classifier/0_ifqg1g76/31346">video</a>]<br />Word embeddings [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+3%3A+Neural+Word+Embeddings/0_mt3wihw1/31346">video</a>]</td>
         <td><ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 14.5 - 14.6</a></li><li><a href="https://arxiv.org/abs/1301.3781">Efficient Estimation of Word Representations in Vector Space</a></li><li><a href="https://aclanthology.org/D14-1162">GloVe: Global Vectors for Word Representation</a></li><li><a href="https://aclanthology.org/Q17-1010">Enriching word vectors with subword information</a></li><li><a href="https://aclanthology.org/L18-1008">Advances in pre-training distributed word representations</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 2</strong></td>
+        <td>25 Feb <br />26 Feb</td>
+        <td>Classical LMs &#124; Neural LMs: Fixed Context Models  [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_2">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+4-5%3A+Classical+Language+Models/0_c5btu4l9/31346">video</a>]<br />Neural LMs: RNNs [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_2">slides</a>] [<a href="https://mediaspace.epfl.ch/media/t/0_ixa2wa2o/31346">video</a>]</td>
+        <td>Suggested reading: <ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 6.1-6.4</a></li><li><a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></li><li><a href="https://proceedings.mlr.press/v28/pascanu13.html">On the difficulty of training recurrent neural networks</a></li><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 18.3, 18.4</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
     <tr>
@@ -60,21 +67,16 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
 <a name="exercises"></a>
 ## Exercise Schedule
 
-| Week        | Date    |  Topic                                                                                    |  Instructor                                                         |
-|:------------|:--------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------:|
-| **Week 1**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 2**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 3**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 4**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 5**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 6**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 7/8**|         |                                                                                           |                                                                     |  
+| Week        | Release Date    |  Exercise Session Date  | Topic                                                                                  |  Instructor   |
+|:------------|:--------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+| **Week 1**  | 19 Feb  | 26 Feb | Intro + Setup   |  Madhur Panwar |
+| **Week 2**  | 26 Feb  |  5 Mar |  LMs + Neural LMs: fixed-context models <br/>  Language and Sequence-to-sequence models | Badr AlKhamissi |
+| **Week 3**  | 5 Mar  | 12 Mar | Attention + Transformers + Tokenization   |  Badr AlKhamissi |
+| **Week 4**  | 12 Mar  | 19 Mar | Pretrained LLMs   |  Badr AlKhamissi |
+| **Week 5**  | 19 Mar  | 26 Mar | Transfer Learning   |  Madhur Panwar |
+| **Week 6**  | 26 Mar  | 2 Apr | Text Generation   |  Madhur Panwar |
+| **Week 7**  | 1 Apr   | 2 Apr | In-context Learning + Post-training   |  TBD |
+
 
 
 <a name="contact"></a>
